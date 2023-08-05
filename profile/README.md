@@ -1,5 +1,5 @@
 # About us
-We are a striving group of IMI students, gathered together for the [IMI Showtime](https://showtime.f4.htw-berlin.de/ss22/) project to create a wonderful experience for everyone joining our fair stand.
+We are a striving group of IMI students, gathered together for the [IMI Showtime](https://showtime.f4.htw-berlin.de/) project to create a wonderful experience for everyone joining our fair stand.
 Many of us are very creative minds, artistically versatile yet specialists in their respective fields and (semi-)experienced, good game designers. Hence we decided to do the game related project.
 
 ## Our Project
